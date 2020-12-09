@@ -1,0 +1,19 @@
+<template>
+<div>
+   seckll
+</div>
+</template>
+<script>
+export default {
+components:{
+},
+data(){
+return{
+}
+},
+methods:{
+},
+}
+</script>
+<style>
+</style>
